@@ -1,0 +1,19 @@
+A simple stick figure standing.
+
+Black lines only.
+
+Round head.
+
+Straight arms.
+
+Straight legs.
+
+No background.
+
+Centered.
+
+Minimalist.
+
+Vector style.
+
+White background.
